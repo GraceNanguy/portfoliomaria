@@ -6,7 +6,6 @@ import Glasses from "../../img/glasses.png";
 import Humble from "../../img/humble.png";
 import { themeContext } from "../../Context";
 import { motion } from "framer-motion";
-import Resume from './resume.pdf';
 
 const Services = () => {
   // context
@@ -24,15 +23,17 @@ const Services = () => {
       {/* left side */}
       <div className="awesome">
         {/* dark mode */}
-        <span style={{ color: darkMode ? "white" : "" }}>My Awesome</span>
-        <span>services</span>
+        <span style={{ color: darkMode ? "white" : "" }}>Mes</span>
+        <span>Compétences</span>
         <spane>
-          Lorem ispum is simpley dummy text of printing of printing Lorem
+        création d'interfaces utilisateur intuitives et esthétiques, 
           <br />
-          ispum is simpley dummy text of printing
-        </spane>
-        <a href={Resume} download>
-          <button className="button s-button">Download CV</button>
+          je m'efforce d'optimiser l'expérience utilisateur avec des solutions innovantes, 
+          <br/>
+          tout en collaborant efficacement en équipe pour concrétiser des projets de haute qualité.
+                  </spane>
+        <a href="Téléchargements/CV Nanguy Grace Maria.docx" download ="CV_Nanguy_Grace_Maria.docx">
+          <button className="button s-button">Télécharger CV</button>
         </a>
         <div className="blur s-blur1" style={{ background: "#ABF1FF94" }}></div>
       </div>
@@ -47,7 +48,7 @@ const Services = () => {
           <Card
             emoji={HeartEmoji}
             heading={"Design"}
-            detail={"Figma, Sketch, Photoshop, Adobe Illustrator, Adobe xd"}
+            detail={"Figma"}
           />
         </motion.div>
         {/* second card */}
@@ -59,7 +60,7 @@ const Services = () => {
           <Card
             emoji={Glasses}
             heading={"Developer"}
-            detail={"Html, Css, JavaScript, React, Nodejs, Express"}
+            detail={"Html, Css, JavaScript "}
           />
         </motion.div>
         {/* 3rd */}
@@ -70,9 +71,9 @@ const Services = () => {
         >
           <Card
             emoji={Humble}
-            heading={"UI/UX"}
+            heading={"Framework"}
             detail={
-              "Lorem ispum dummy text are usually use in section where we need some random text"
+              "Reactjs, Tailwind css, Boostrap"
             }
             color="rgba(252, 166, 31, 0.45)"
           />
