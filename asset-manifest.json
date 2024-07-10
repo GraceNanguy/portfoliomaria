@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GraceNanguy/portfoliomaria.git/static/css/main.4fe81a0d.css",
-    "main.js": "/GraceNanguy/portfoliomaria.git/static/js/main.75fcefd5.js",
+    "main.js": "/GraceNanguy/portfoliomaria.git/static/js/main.04534156.js",
     "static/media/Landing.png": "/GraceNanguy/portfoliomaria.git/static/media/Landing.ba4da16224fda6c238ec.png",
     "static/media/musicapp.png": "/GraceNanguy/portfoliomaria.git/static/media/musicapp.f1c301f91904ef5f9249.png",
     "static/media/image.png": "/GraceNanguy/portfoliomaria.git/static/media/image.a9b04766993c5b7e0f51.png",
@@ -16,10 +16,10 @@
     "static/media/glasses.png": "/GraceNanguy/portfoliomaria.git/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/GraceNanguy/portfoliomaria.git/index.html",
     "main.4fe81a0d.css.map": "/GraceNanguy/portfoliomaria.git/static/css/main.4fe81a0d.css.map",
-    "main.75fcefd5.js.map": "/GraceNanguy/portfoliomaria.git/static/js/main.75fcefd5.js.map"
+    "main.04534156.js.map": "/GraceNanguy/portfoliomaria.git/static/js/main.04534156.js.map"
   },
   "entrypoints": [
     "static/css/main.4fe81a0d.css",
-    "static/js/main.75fcefd5.js"
+    "static/js/main.04534156.js"
   ]
 }
