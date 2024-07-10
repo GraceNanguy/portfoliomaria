@@ -21,14 +21,10 @@ const navbar = () => {
             </li>
             <li>
               <Link to="services" spy={true} smooth={true}>
-                Serivces
+              Compétence
               </Link>
             </li>
-            <li>
-              <Link to="works" spy={true} smooth={true}>
-                Competence
-              </Link>
-            </li>
+
             <li>
               <Link to="portfolio" spy={true} smooth={true}>
                 Protfolio
